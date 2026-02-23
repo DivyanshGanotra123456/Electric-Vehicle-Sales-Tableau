@@ -1,2 +1,4 @@
 # Electric-Vehicle-Sales-Tableau
 The EV market shows strong growth, led primarily by Battery Electric Vehicles and dominated by Tesla. Adoption accelerates after 2017 and peaks in 2023, with Washington state contributing the majority of vehicles. While CAFV eligibility covers a significant share, a large “Unknown” segment highlights opportunities for data improvement.
+Summary
+This project analyzes electric vehicle (EV) adoption trends using an interactive dashboard. The dataset contains 130,825 vehicles with an average electric range of 73.10 miles, where Battery Electric Vehicles (80.1%) significantly outnumber Plug-in Hybrid Vehicles (19.9%). EV adoption has grown steadily since 2017, peaking in 2023, and is heavily concentrated in Washington state. Brand analysis shows Tesla dominates the market (~52.7%), followed by Nissan and Chevrolet, while CAFV eligibility data reveals a large portion of vehicles with unknown status, indicating potential data quality gaps.
